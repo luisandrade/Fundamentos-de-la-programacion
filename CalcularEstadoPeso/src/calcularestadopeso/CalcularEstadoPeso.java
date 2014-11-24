@@ -77,7 +77,7 @@ public class CalcularEstadoPeso {
                     System.out.println();
                     
         }else{
-            System.out.println(nombre+"Esta bajo peso");
+            System.out.println(nombre+ "Esta bajo peso");
         }
     }
 
