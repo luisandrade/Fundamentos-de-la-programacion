@@ -14,7 +14,7 @@ public class MultiDimensional {
    
    String [][] arregloMulti = new String [4][4];
         
-        arregloMulti[0][0]="Ingenieria en administracion de empresas,";
+   arregloMulti[0][0]="Ingenieria en administracion de empresas,";
    arregloMulti[0][1]="Ingenieria en produccion ganadera,";
    arregloMulti[0][2]="Ingenieria agricola,";
    arregloMulti[0][3]="Ingenieria en contruccion,";
